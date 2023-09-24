@@ -1,0 +1,19 @@
+.wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.wrapper input {
+	margin-right: 11px;
+	cursor: pointer;
+}
+
+.wrapper p {
+	color: rgba(0, 0, 0, 0.75);
+	font-family: Poppins;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 115.688%;
+	letter-spacing: 0.72px;	
+}
